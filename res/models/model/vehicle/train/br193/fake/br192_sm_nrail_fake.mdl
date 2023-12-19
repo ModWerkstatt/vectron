@@ -542,7 +542,7 @@ return {
 			priceScale = 1,
 		},
 		description = {
-			name = _("br192_sm_nrail_name"),
+			name = _("br192_sm_nrail_name_fake"),
 			description = _("br192_desc"),
 		},
 		emission = {

@@ -40,8 +40,8 @@ soundsetutil.addTrackParam01
 			{ 0.01, 0.0},
 			{ 0.03, 0.3},
 			{ 0.2, 0.7},
-			{ 0.5, 0.9},
-			{ 0.51, 0.0},
+			{ 0.4, 0.9},
+			{ 0.41, 0.0},
 			
 		},
 		{
@@ -51,16 +51,17 @@ soundsetutil.addTrackParam01
 		"speed01")
 
 soundsetutil.addTrackParam01
-(data, "vehicle/train/vectron/fahren.wav", 25.0,
+(data, "vehicle/train/br193/fahren.wav", 25.0,
         {
-            { 0.50, 0.0},
-            { 0.51, 1.0},
+            { 0.40, 0.0},
+            { 0.41, 0.9},
             { 1.00, 1.0},
 
         },
         {
             { 0.0, 0.0 }, 
-            { 0.5, 1.0 },
+            { 0.41, 0.91 },
+            { 0.42, 0.9 },
             { 1.0, 1.2 } 
         }, 
         "speed01")

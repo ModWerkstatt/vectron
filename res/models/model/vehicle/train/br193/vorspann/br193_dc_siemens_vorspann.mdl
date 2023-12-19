@@ -564,7 +564,7 @@ return {
 			priceScale = 1,
 		},
 		description = {
-			name = _("br193_dc_siemens_name"),
+			name = _("br193_dc_siemens_name_vorspann"),
 			description = _("br193_desc"),
 		},
 		emission = {

@@ -566,7 +566,7 @@ return {
 			priceScale = 1,
 		},
 		description = {
-			name = _("br193_ac_rpool5_name"),
+			name = _("br193_ac_rpool5_name_fake"),
 			description = _("br193_desc") .. _("br193_zza"),
 		},
 		emission = {

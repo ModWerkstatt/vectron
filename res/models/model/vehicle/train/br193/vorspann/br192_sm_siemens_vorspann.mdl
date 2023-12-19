@@ -563,7 +563,7 @@ return {
 			priceScale = 1,
 		},
 		description = {
-			name = _("br192_sm_siemens_name"),
+			name = _("br192_sm_siemens_name_vorspann"),
 			description = _("br192_desc"),
 		},
 		emission = {

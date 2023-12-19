@@ -563,7 +563,7 @@ return {
 			priceScale = 1,
 		},
 		description = {
-			name = _("br193_ac_nrail_name"),
+			name = _("br193_ac_nrail_name_vorspann"),
 			description = _("br193_desc"),
 		},
 		emission = {

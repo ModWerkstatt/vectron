@@ -11,11 +11,6 @@ return {
 		        name = "ModWerkstatt",
 		        role = "CREATOR",
 		    },
-		    {
-		        name = "Blanki",
-		        role = "CREATOR",
-				--- SETG Lackierungen ---
-		    },
 		},
 		tags = { "europe", "train", "siemens", "vectron", "smartron", "electric", "multi-system", "universal" },
 		minGameVersion = 0,
@@ -51,6 +46,13 @@ return {
 				defaultIndex = 1,
 			},
 			{
+				key = "br193_dc",
+				name = _("dc_br193"),
+				values = { "No", "Yes", },
+				tooltip = _("option_dc_br193_desc"),				
+				defaultIndex = 1,
+			},
+			{
 				key = "br193_sm",
 				name = _("Sm_br193"),
 				values = { "No", "Yes", },
@@ -59,21 +61,21 @@ return {
 			},
 			{
 				key = "br193_dachinl",
-				name = _("Sm_br193"),
+				name = _("dachinl_br193"),
 				values = { "No", "Yes", },
 				tooltip = _("option_dachinal_br193_desc"),				
 				defaultIndex = 1,
 			},
 			{
 				key = "br193_osteuropa",
-				name = _("Sm_br193"),
+				name = _("osteuropa_br193"),
 				values = { "No", "Yes", },
 				tooltip = _("option_osteuropa_br193_desc"),				
 				defaultIndex = 1,
 			},
 			{
 				key = "br193_skandinavien",
-				name = _("Sm_br193"),
+				name = _("skandinavien_br193"),
 				values = { "No", "Yes", },
 				tooltip = _("option_skandinavien_br193_desc"),				
 				defaultIndex = 1,
@@ -116,7 +118,15 @@ return {
 				data.metadata.availability.yearTo = 2				
 			end				
 			return data
-		end 
+		end
+		
+		local dcFilter = function(fileName, data)		
+			if data.metadata.transportVehicle and data.metadata.vectron and data.metadata.vectron.dc == true then			
+				data.metadata.availability.yearFrom = 1
+				data.metadata.availability.yearTo = 2				
+			end				
+			return data
+		end  
 		
 		local smFilter = function(fileName, data)		
 			if data.metadata.transportVehicle and data.metadata.vectron and data.metadata.vectron.sm == true then			
@@ -165,6 +175,9 @@ return {
 			if params["br193_ac"] == 0 then				
 				addModifier("loadModel", acFilter)
 			end
+			if params["br193_dc"] == 0 then				
+				addModifier("loadModel", acFilter)
+			end
 			if params["br193_sm"] == 0 then				
 				addModifier("loadModel", smFilter)
 			end
@@ -183,6 +196,7 @@ return {
 			addModifier("loadModel", fakeFilter)
 			addModifier("loadModel", msFilter)
 			addModifier("loadModel", acFilter)
+			addModifier("loadModel", dcFilter)
 			addModifier("loadModel", smFilter)
 			addModifier("loadModel", dachFilter)
 			addModifier("loadModel", ostFilter)
