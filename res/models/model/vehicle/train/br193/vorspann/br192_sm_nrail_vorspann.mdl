@@ -538,30 +538,12 @@ return {
 			configs = {
 				{
 					axles = { "vehicle/train/br193/radsatz_lod0.msh", },
-					backBackwardParts = { 19, 20, 32 },
-					backForwardParts = { 21, 22, 30 },
-					frontBackwardParts = { 23, 24, 31 },
-					frontForwardParts = { 17, 18, 29 },
-					innerBackwardParts = { 27, 28, },
-					innerForwardParts = { 25, 26, },
 				},
 				{
 					axles = { "vehicle/train/br193/radsatz_lod1.msh", },
-					backBackwardParts = { 19, 20, 32 },
-					backForwardParts = { 21, 22, 30 },
-					frontBackwardParts = { 23, 24, 31 },
-					frontForwardParts = { 17, 18, 29 },
-					innerBackwardParts = { 27, 28, },
-					innerForwardParts = { 25, 26, },
 				},
 				{
 					axles = { "vehicle/train/br193/radsatz_lod2.msh", },
-					backBackwardParts = { 19, 20, 32 },
-					backForwardParts = { 21, 22, 30 },
-					frontBackwardParts = { 23, 24, 31 },
-					frontForwardParts = { 17, 18, 29 },
-					innerBackwardParts = { 27, 28, },
-					innerForwardParts = { 25, 26, },
 				},
 			},
 			engines = {
