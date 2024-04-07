@@ -818,7 +818,7 @@ return {
 			},
 			engines = {
 				{
-					power = 6400,
+					power = 5600,
 					tractiveEffort = 300,
 					type = "ELECTRIC",
 				},
