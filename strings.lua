@@ -434,7 +434,7 @@ return {
 	de = {
 
 		["mod_name"] = "Siemens Vectron MS und AC",
-		["mod_desc"] = "Der Vectron ist eine moderene Drehstromlokomotive für den Internationalen Personen- und Güterverkehr in Europa. Der Vectron kann in 20 europäischen Ländern verkehren. Erstmal wurde der Vectron im Juli 2010 der Öffentlichkeit vorgestellt, seitdem ist die Lok bei vielen Staats- und Privatbahnen im Einsatz. In dem Paket sind die Loks BR 193 MS (Mehrsystem), BR 193 AC (Wechselstrom) und der Smartron enthalten. ",
+		["mod_desc"] = "Der Vectron ist eine moderne Drehstromlokomotive für den internationalen Personen- und Güterverkehr in Europa. Der Vectron kann in 20 europäischen Ländern verkehren. Erstmal wurde der Vectron im Juli 2010 der Öffentlichkeit vorgestellt, seitdem ist die Lok bei vielen Staats- und Privatbahnen im Einsatz. In dem Paket sind die Loks BR 193 MS (Mehrsystem), BR 193 AC (Wechselstrom) und der Smartron enthalten. ",
 
         ["br193_ms_menu"] = "Vectron BR 193 MS",
 		["br193_ac_menu"] = "Vectron BR 193 AC",
