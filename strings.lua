@@ -454,19 +454,19 @@ return {
 		["br192"] = 	"Smartron als Wechselstrom-Lok mit 2 Stromabnehmern",
 
 		["Ms_br193"] = "Vectron BR 193 Mehrsystem aktivieren?",
-		["option_ms_br193_desc"] = "Soll die Vectron BR 193 für das Mehrsystem (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
+		["option_ms_br193_desc"] = "Sollen die Vectron BR 193 für das Mehrsystem (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
 		["Ac_br193"] = "Vectron BR 193 Wechselstromsystem aktivieren?",
-		["option_ac_br193_desc"] = "Soll die Vectron BR 193 für das Wechselstromsystem (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
+		["option_ac_br193_desc"] = "Sollen die Vectron BR 193 für das Wechselstromsystem (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
 		["dc_br193"] = "Vectron BR 193 Gleichstromsystem aktivieren?",
-		["option_dc_br193_desc"] = "Soll die Vectron Br 193 für das Gleichstromsystem (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
+		["option_dc_br193_desc"] = "Sollen die Vectron Br 193 für das Gleichstromsystem (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
 		["Sm_br193"] = "Smartron BR 192 aktivieren?",
-		["option_sm_br193_desc"] = "Soll die Smartron BR 192 (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
+		["option_sm_br193_desc"] = "Sollen die Smartron BR 192 (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
 		["dachinl_br193"] = "Vectron BR 193 mit DACHINL Ausrüstung aktivieren?",
-		["option_dachinal_br193_desc"] = "Soll die Vectron BR 193 mit DACHINL Ausrüstung (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
+		["option_dachinal_br193_desc"] = "Sollen die Vectron BR 193 mit DACHINL Ausrüstung (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
 		["osteuropa_br193"] = "Vectron BR 193 mit Osteuropa Ausrüstung aktivieren?",
-		["option_osteuropa_br193_desc"] = "Soll die Vectron BR 193 mit Osteuropa Ausrüstung (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
+		["option_osteuropa_br193_desc"] = "Sollen die Vectron BR 193 mit Osteuropa Ausrüstung (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
 		["skandinavien_br193"] = "Smartron Vectron BR 193 mit Skandinavien Ausrüstung aktivieren?",
-		["option_skandinavien_br193_desc"] = "Soll die Vectron BR 193 mit Skandinavien Ausrüstung  (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
+		["option_skandinavien_br193_desc"] = "Sollen die Vectron BR 193 mit Skandinavien Ausrüstung  (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
 
 		["br193_ms_siemens_name"] = 	"BR 193 901 MS Siemens",
 		["br193_ms_siemens2_name"] = 	"BR 6193 400 MS Siemens (Vectron 230 km/h)",
@@ -632,7 +632,7 @@ return {
 
         -- Vorspann
         ["Vorspann_br193"] = "Vorspann-Loks aktivieren?",
-        ["option_vorspann_br193_desc"] = "Die Vorspann-Loks (mit vorderem Panto gehoben) aktiviert werden?",
+        ["option_vorspann_br193_desc"] = "Sollen die Vorspann-Loks (mit vorderem Panto gehoben) aktiviert werden?",
 
 		["br193_ac_siemens_name_vorspann"] = 	"Vorspann - BR 192 961 AC Siemens",
 		["br193_ac_siemens2_name_vorspann"] = 	"Vorspann - BR 193 780 AC Siemens Vectron 230 km/h",
@@ -702,7 +702,7 @@ return {
 
         -- Fake
         ["Fake_br193"] = "Fake-Loks aktivieren?",
-        ["option_fake_br193_desc"] = "Die Fake-Loks (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
+        ["option_fake_br193_desc"] = "Sollen die Fake-Loks (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
 
 		["br193_ms_siemens_name_fake"] = 	"Fake - BR 193 901 MS Siemens",
 		["br193_ms_siemens2_name_fake"] = 	"Fake - BR 6193 400 MS Siemens (Vectron 230 km/h)",
