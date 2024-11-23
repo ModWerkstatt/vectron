@@ -104,22 +104,6 @@ return {
 		["br193_ms_pkp3_name"] = 		"Class 370 022 MS PKP Cargo (roof blue)",
 		["br193_ms_pkp4_name"] = 		"Class 383 053 MS PKP Cargo (Unitcredit) ",
 
-		["br193_ms_sbb_name"] = 		"Class 6193 107 MS SBBCINT Silverpiercer (Lake Constance)",
-		["br193_ms_sbb2_name"] = 		"Class 193 258 MS SBBCINT/ELL",
-		["br193_ms_sbb3_name"] = 		"Class 193 658 MS SBBCINT Shadowpiercer (Lake Lucerne)",
-		["br193_ms_sbb4_name"] = 		"Class 193 469 MS SBBCINT Alppiercer (Simplon)",
-		["br193_ms_sbb5_name"] = 		"Class 193 516 MS SBBCINT Alppiercer 2 (Aare)",
-		["br193_ms_sbb6_name"] = 		"Class 193 518 MS SBBCINT Monte Cenerie (Ticino)",
-		["br193_ms_sbb7_name"] = 		"Class 193 518 MS SBBCINT Monte Cenerie (5 years Rastatt)",
-		["br193_ms_sbb8_name"] = 		"Class 193 525 MS SBBCINT Hollandpiercer (Rotterdam)",
-		["br193_ms_sbb9_name"] = 		"Class 193 701 MS SBBCINT Ruhrpiercer (Ruhr area)",
-		["br193_ms_sbb10_name"] = 		"Class 193 532 MS SBBCINT Nightpiercer 2 (Rhine)",
-		["br193_ms_sbb11_name"] = 		"Class 6193 110 MS SBBCINT Goldpiercer (Zuckersee)",
-		["br193_ms_sbb12_name"] = 		"Class 193 492 MS SBBCINT Nightpiercer (Rhine)",
-
-
-		["br193_ms_sbb13_name"] = 		"Class 193 659 MS SBBCINT Cargo trains (Berlin)",
-
 		["br193_ms_setg_name"] = 		"Class 193 839 MS SETG (Alpenlok)",
 		["br193_ms_setg2_name"] = 		"Class 193 821 MS SETG (Daniel)",
 		["br193_ms_setg3_name"] = 		"Class 193 746 MS SETG (Jeder Mann)",
@@ -160,8 +144,6 @@ return {
 		["br193_ac_rpool3_name"] = 		"Class 193 813 AC Railpool",
 		["br193_ac_rpool4_name"] = 		"Class 193 813 AC Railpool (Knorrbremse)",
 		["br193_ac_rpool5_name"] = 		"Class 193 804 AC Railpool",
-
-		["br193_ac_sbb_name"] = 		"Class 193 210 AC SBBCINT/ELL",
 
 		["br193_ac_setg_name"] = 		"Class 193 218 AC SETG (Beethoven 15 years SETG)",
 		["br193_ac_setg2_name"] = 		"Class 193 218 AC SETG (Beethoven 20 years SETG)",
@@ -232,8 +214,6 @@ return {
 		["br193_ac_rpool3_name_vorspann"] = 	"Lead - Class 193 813 AC Railpool",
 		["br193_ac_rpool4_name_vorspann"] = 	"Lead - Class 193 813 AC Railpool (Knorrbremse)",
 		["br193_ac_rpool5_name_vorspann"] = 	"Lead - Class 193 804 AC Railpool",
-
-		["br193_ac_sbb_name_vorspann"] = 		"Lead - Class 193 210 AC SBBCINT/ELL",
 
 		["br193_ac_setg_name_vorspann"] = 		"Lead - Class 193 218 AC SETG (Beethoven 15 years SETG)",
 		["br193_ac_setg2_name_vorspann"] = 		"Lead - Class 193 218 AC SETG (Beethoven 20 years SETG)",
@@ -338,22 +318,6 @@ return {
 		["br193_ms_pkp3_name_fake"] = 		"Fake - Class 370 022 MS PKP Cargo (roof blue)",
 		["br193_ms_pkp4_name_fake"] = 		"Fake - Class 383 053 MS PKP Cargo (Unitcredit) ",
 
-		["br193_ms_sbb_name_fake"] = 		"Fake - Class 6193 107 MS SBBCINT Silverpiercer (Lake Constance)",
-		["br193_ms_sbb2_name_fake"] = 		"Fake - Class 193 258 MS SBBCINT/ELL",
-		["br193_ms_sbb3_name_fake"] = 		"Fake - Class 193 658 MS SBBCINT Shadowpiercer (Lake Lucerne)",
-		["br193_ms_sbb4_name_fake"] = 		"Fake - Class 193 469 MS SBBCINT Alppiercer (Simplon)",
-		["br193_ms_sbb5_name_fake"] = 		"Fake - Class 193 516 MS SBBCINT Alppiercer 2 (Aare)",
-		["br193_ms_sbb6_name_fake"] = 		"Fake - Class 193 518 MS SBBCINT Monte Cenerie (Ticino)",
-		["br193_ms_sbb7_name_fake"] = 		"Fake - Class 193 518 MS SBBCINT Monte Cenerie (5 years Rastatt)",
-		["br193_ms_sbb8_name_fake"] = 		"Fake - Class 193 525 MS SBBCINT Hollandpiercer (Rotterdam)",
-		["br193_ms_sbb9_name_fake"] = 		"Fake - Class 193 701 MS SBBCINT Ruhrpiercer (Ruhr area)",
-		["br193_ms_sbb10_name_fake"] = 		"Fake - Class 193 532 MS SBBCINT Nightpiercer 2 (Rhine)",
-		["br193_ms_sbb11_name_fake"] = 		"Fake - Class 6193 110 MS SBBCINT Goldpiercer (Zuckersee)",
-		["br193_ms_sbb12_name_fake"] = 		"Fake - Class 193 492 MS SBBCINT Nightpiercer (Rhine)",
-
-
-		["br193_ms_sbb13_name_fake"] = 		"Fake - Class 193 659 MS SBBCINT Cargo trains (Berlin)",
-
 		["br193_ms_setg_name_fake"] = 		"Fake - Class 193 839 MS SETG (Alpenlok)",
 		["br193_ms_setg2_name_fake"] = 		"Fake - Class 193 821 MS SETG (Daniel)",
 		["br193_ms_setg3_name_fake"] = 		"Fake - Class 193 746 MS SETG (Jeder Mann)",
@@ -394,8 +358,6 @@ return {
 		["br193_ac_rpool3_name_fake"] = 	"Fake - Class 193 813 AC Railpool",
 		["br193_ac_rpool4_name_fake"] = 	"Fake - Class 193 813 AC Railpool (Knorrbremse)",
 		["br193_ac_rpool5_name_fake"] = 	"Fake - Class 193 804 AC Railpool",
-
-		["br193_ac_sbb_name_fake"] = 		"Fake - Class 193 210 AC SBBCINT/ELL",
 
 		["br193_ac_setg_name_fake"] = 		"Fake - Class 193 218 AC SETG (Beethoven 15 years SETG)",
 		["br193_ac_setg2_name_fake"] = 		"Fake - Class 193 218 AC SETG (Beethoven 20 years SETG)",
@@ -537,22 +499,6 @@ return {
 		["br193_ms_pkp3_name"] = 		"BR 370 022 MS PKP Cargo (Dach blau)",
 		["br193_ms_pkp4_name"] = 		"BR 383 053 MS PKP Cargo (Unitcredit) ",
 
-		["br193_ms_sbb_name"] = 		"BR 6193 107 MS SBBCINT Silverpiercer (Bodensee)",
-		["br193_ms_sbb2_name"] = 		"BR 193 258 MS SBBCINT/ELL",
-		["br193_ms_sbb3_name"] = 		"BR 193 658 MS SBBCINT Shadowpiercer (Vierwaldstättersee)",
-		["br193_ms_sbb4_name"] = 		"BR 193 469 MS SBBCINT Alppiercer (Simplon)",
-		["br193_ms_sbb5_name"] = 		"BR 193 516 MS SBBCINT Alpiercer 2 (Aare)",
-		["br193_ms_sbb6_name"] = 		"BR 193 518 MS SBBCINT Monte Cenerie (Ticino)",
-		["br193_ms_sbb7_name"] = 		"BR 193 518 MS SBBCINT Monte Cenerie (5 Jahre Rastatt)",
-		["br193_ms_sbb8_name"] = 		"BR 193 525 MS SBBCINT Hollandpiercer (Rotterdam)",
-		["br193_ms_sbb9_name"] = 		"BR 193 701 MS SBBCINT Ruhrpiercer (Ruhrgebiet)",
-		["br193_ms_sbb10_name"] = 		"BR 193 532 MS SBBCINT Nightpiercer 2 (Rhein)",
-		["br193_ms_sbb11_name"] = 		"BR 6193 110 MS SBBCINT Goldpiercer (Zuckersee)",
-		["br193_ms_sbb12_name"] = 		"BR 193 492 MS SBBCINT Nightpiercer (Rhein)",
-
-
-		["br193_ms_sbb13_name"] = 		"BR 193 659 MS SBBCINT Güterbahnen (Berlin)",
-
 		["br193_ms_setg_name"] = 		"BR 193 839 MS SETG (Alpenlok)",
 		["br193_ms_setg2_name"] = 		"BR 193 821 MS SETG (Daniel)",
 		["br193_ms_setg3_name"] = 		"BR 193 746 MS SETG (Jeder Mann)",
@@ -593,8 +539,6 @@ return {
 		["br193_ac_rpool3_name"] = 		"BR 193 813 AC Railpool",
 		["br193_ac_rpool4_name"] = 		"BR 193 813 AC Railpool (Knorrbremse)",
 		["br193_ac_rpool5_name"] = 		"BR 193 804 AC Railpool",
-
-		["br193_ac_sbb_name"] = 		"BR 193 210 AC SBBCINT/ELL",
 
 		["br193_ac_setg_name"] = 		"BR 193 218 AC SETG (Beethoven 15 Jahre SETG)",
 		["br193_ac_setg2_name"] = 		"BR 193 218 AC SETG (Beethoven 20 Jahre SETG)",
@@ -665,8 +609,6 @@ return {
 		["br193_ac_rpool3_name_vorspann"] = 	"Vorspann - BR 193 813 AC Railpool",
 		["br193_ac_rpool4_name_vorspann"] = 	"Vorspann - BR 193 813 AC Railpool (Knorrbremse)",
 		["br193_ac_rpool5_name_vorspann"] = 	"Vorspann - BR 193 804 AC Railpool",
-
-		["br193_ac_sbb_name_vorspann"] = 		"Vorspann - BR 193 210 AC SBBCINT/ELL",
 
 		["br193_ac_setg_name_vorspann"] = 		"Vorspann - BR 193 218 AC SETG (Beethoven 15 Jahre SETG)",
 		["br193_ac_setg2_name_vorspann"] = 		"Vorspann - BR 193 218 AC SETG (Beethoven 20 Jahre SETG)",
@@ -773,22 +715,6 @@ return {
 		["br193_ms_pkp3_name_fake"] = 		"Fake - BR 370 022 MS PKP Cargo (Dach blau)",
 		["br193_ms_pkp4_name_fake"] = 		"Fake - BR 383 053 MS PKP Cargo (Unitcredit) ",
 
-		["br193_ms_sbb_name_fake"] = 		"Fake - BR 6193 107 MS SBBCINT Silverpiercer (Bodensee)",
-		["br193_ms_sbb2_name_fake"] = 		"Fake - BR 193 258 MS SBBCINT/ELL",
-		["br193_ms_sbb3_name_fake"] = 		"Fake - BR 193 658 MS SBBCINT Shadowpiercer (Vierwaldstättersee)",
-		["br193_ms_sbb4_name_fake"] = 		"Fake - BR 193 469 MS SBBCINT Alppiercer (Simplon)",
-		["br193_ms_sbb5_name_fake"] = 		"Fake - BR 193 516 MS SBBCINT Alpiercer 2 (Aare)",
-		["br193_ms_sbb6_name_fake"] = 		"Fake - BR 193 518 MS SBBCINT Monte Cenerie (Ticino)",
-		["br193_ms_sbb7_name_fake"] = 		"Fake - BR 193 518 MS SBBCINT Monte Cenerie (5 Jahre Rastatt)",
-		["br193_ms_sbb8_name_fake"] = 		"Fake - BR 193 525 MS SBBCINT Hollandpiercer (Rotterdam)",
-		["br193_ms_sbb9_name_fake"] = 		"Fake - BR 193 701 MS SBBCINT Ruhrpiercer (Ruhrgebiet)",
-		["br193_ms_sbb10_name_fake"] = 		"Fake - BR 193 532 MS SBBCINT Nightpiercer 2 (Rhein)",
-		["br193_ms_sbb11_name_fake"] = 		"Fake - BR 6193 110 MS SBBCINT Goldpiercer (Zuckersee)",
-		["br193_ms_sbb12_name_fake"] = 		"Fake - BR 193 492 MS SBBCINT Nightpiercer (Rhein)",
-
-
-		["br193_ms_sbb13_name_fake"] = 		"Fake - BR 193 659 MS SBBCINT Güterbahnen (Berlin)",
-
 		["br193_ms_setg_name_fake"] = 		"Fake - BR 193 839 MS SETG (Alpenlok)",
 		["br193_ms_setg2_name_fake"] = 		"Fake - BR 193 821 MS SETG (Daniel)",
 		["br193_ms_setg3_name_fake"] = 		"Fake - BR 193 746 MS SETG (Jeder Mann)",
@@ -829,8 +755,6 @@ return {
 		["br193_ac_rpool3_name_fake"] = 	"Fake - BR 193 813 AC Railpool",
 		["br193_ac_rpool4_name_fake"] = 	"Fake - BR 193 813 AC Railpool (Knorrbremse)",
 		["br193_ac_rpool5_name_fake"] = 	"Fake - BR 193 804 AC Railpool",
-
-		["br193_ac_sbb_name_fake"] = 		"Fake - BR 193 210 AC SBBCINT/ELL",
 
 		["br193_ac_setg_name_fake"] = 		"Fake - BR 193 218 AC SETG (Beethoven 15 Jahre SETG)",
 		["br193_ac_setg2_name_fake"] = 		"Fake - BR 193 218 AC SETG (Beethoven 20 Jahre SETG)",
