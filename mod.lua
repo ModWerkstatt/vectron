@@ -176,7 +176,7 @@ return {
 				addModifier("loadModel", acFilter)
 			end
 			if params["br193_dc"] == 0 then				
-				addModifier("loadModel", acFilter)
+				addModifier("loadModel", dcFilter)
 			end
 			if params["br193_sm"] == 0 then				
 				addModifier("loadModel", smFilter)
